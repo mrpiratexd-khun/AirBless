@@ -33,7 +33,8 @@ airbless
 
 ### 2.The AirBless Wi-Fi Dumper
 
-<img width="944" height="589" alt="Screenshot from 2025-12-12 20-57-43" src="https://github.com/user-attachments/assets/9f45bae5-9568-476f-b1b2-df3ece24b741" />
+![Uploading Screenshot from 2025-12-12 20-57-43.png…]()
+
 
 
 ### 3.The AirBless Deauth
